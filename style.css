@@ -1,0 +1,57 @@
+
+.p1
+{
+    color: white;
+    background-color: black;
+}
+.p3
+{
+    color: white;
+    background-color: black;
+}
+.p4
+{
+    color: white;
+    background-color: black;
+}
+.p2
+{
+    color: white;
+    background-color: black;
+}
+#p1
+{
+    color:aquamarine;
+    background-color:aquamarine;
+}
+#p3
+{   
+    color:darkslateblue;
+    background-color: darkslateblue;
+}
+#p2
+{
+    color:darkmagenta;
+    background-color:darkmagenta;
+}
+#p4
+{
+    color:crimson;
+    background-color: crimson;
+}
+.images
+{
+    height: 200px;
+    width: 200;
+    padding: =10px;
+    display:flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+}
+img{
+    height: 100px;
+    width: 100;
+    padding: 8px;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
